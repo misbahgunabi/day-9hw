@@ -1,0 +1,41 @@
+.hadding{
+	padding: px;
+	border: 5px solid red;
+	text-align: center;
+	background-color: green;
+	 
+
+}
+.hadding ul{
+	display: flex;
+}
+.hadding ul li{
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	padding: 0px 20px;
+	display: block;
+	text-transform: capitalize;
+}
+img{
+	padding: 0px;
+}
+a{
+	display: block;
+}
+.table,tr,th,td{
+	border: 1px solid black;
+	padding: 15px;
+}
+.footer{
+	width: 100%;
+	height:80px;
+	background-color: black;
+	text-align: center;
+	color: #FFFFFF;
+}
+.mar{
+
+}
+
+ 
